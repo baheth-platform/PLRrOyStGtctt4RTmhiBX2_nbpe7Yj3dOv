@@ -1,0 +1,75 @@
+{
+  "user_id": 1,
+  "playlist_id": 67,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "مداخل",
+  "hidden": false,
+  "media": [
+    {
+      "title": "الدورة التعريفية بالعلوم الإسلامية | خريطة العلوم - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:31:14",
+      "link": "https://www.youtube.com/watch?v=Anmbe-izIGw",
+      "transcript_txt": "Anmbe-izIGw.txt",
+      "transcript_srt": "Anmbe-izIGw.srt"
+    },
+    {
+      "title": "الدورة التعريفية بالعلوم الإسلامية | القيم الحاكمة : ماذا بعد أن نتعلم - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "02:06:19",
+      "link": "https://www.youtube.com/watch?v=ziFosl9xxfg",
+      "transcript_txt": "ziFosl9xxfg.txt",
+      "transcript_srt": "ziFosl9xxfg.srt"
+    },
+    {
+      "title": "الدورة التعريفية بالعلوم الإسلامية | مفهوم العلم في الحضارة العربية والأوربية - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:08:30",
+      "link": "https://www.youtube.com/watch?v=NoNEZBtcEdQ",
+      "transcript_txt": "NoNEZBtcEdQ.txt",
+      "transcript_srt": "NoNEZBtcEdQ.srt"
+    },
+    {
+      "title": "الدورة التعريفية بالعلوم الإسلامية | النحو والصرف - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:14:54",
+      "link": "https://www.youtube.com/watch?v=8_OBOSrBQNk",
+      "transcript_txt": "8_OBOSrBQNk.txt",
+      "transcript_srt": "8_OBOSrBQNk.srt"
+    },
+    {
+      "title": "الدورة التعريفية بالعلوم الإسلامية | علم العروض - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:06:26",
+      "link": "https://www.youtube.com/watch?v=j5o_cy6qMHo",
+      "transcript_txt": "j5o_cy6qMHo.txt",
+      "transcript_srt": "j5o_cy6qMHo.srt"
+    },
+    {
+      "title": "الدورة التعريفية بالعلوم الإسلامية | علم المعجم - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "02:08:43",
+      "link": "https://www.youtube.com/watch?v=DONXTEQwOeA",
+      "transcript_txt": "DONXTEQwOeA.txt",
+      "transcript_srt": "DONXTEQwOeA.srt"
+    },
+    {
+      "title": "الدورة التعريفية بالعلوم الإسلامية | التذوق الشعري - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:28:39",
+      "link": "https://www.youtube.com/watch?v=6GGsDK-B9lY",
+      "transcript_txt": "6GGsDK-B9lY.txt",
+      "transcript_srt": "6GGsDK-B9lY.srt"
+    },
+    {
+      "title": "الدورة التعريفية بالعلوم الإسلامية | مدخل إلى اللسانيات - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:48:27",
+      "link": "https://www.youtube.com/watch?v=Q1X9No6Qabg",
+      "transcript_txt": "Q1X9No6Qabg.txt",
+      "transcript_srt": "Q1X9No6Qabg.srt"
+    }
+  ]
+}
